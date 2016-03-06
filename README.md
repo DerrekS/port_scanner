@@ -10,7 +10,7 @@ Options:
                         currently limited to /24+ only
   -p PORTS, --port=PORTS
                         The port(s) you wish to scan (single, comma separated,
-                        or range).
+                        or range). 
   -t                    Performs a TCP port scan, along with any other scans
                         selected.
   -i                    Performs an ICMP port scan, along with any other scans

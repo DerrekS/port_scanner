@@ -1,7 +1,7 @@
 # port_scanner
 Simple python port scanner using scapy
 
-Usage: test.py -a (ip address) -p (ports) [-i] [-u] [-t] [-T]
+Usage: port_scanner.py -a (ip address) -p (ports) [-i] [-u] [-t] [-T]
 
 Options:
   -h, --help            show this help message and exit
